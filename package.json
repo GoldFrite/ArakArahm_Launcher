@@ -1,7 +1,7 @@
 {
   "name": "arakaramlauncher",
   "productName": "Arak-Arahm Launcher",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Arak-Arahm Launcher",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,12 @@
       "oneClick": true,
       "perMachine": true
     },
-    "icon": "build/icon.ico"
+    "icon": "build/icon.ico",
+    "mac": {
+      "target": "dmg",
+      "icon": "build/icon.icns",
+      "minimumSystemVersion": "10.11"
+    }
   },
   "author": "Arak-Arahm",
   "license": "GNU AGPLv3",
