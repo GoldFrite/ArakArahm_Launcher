@@ -1,3 +1,8 @@
+<div align="center">
+  <b>⚠️ This project is outdated. Some new Launchers are coming in a few months! ⚠️</b><br>
+  <b>⚠️ Ce projet n'est plus maintenu. De nouveaux Launchers arrivent dans quelques mois ! ⚠️</b>
+</div><br>
+
 # <p align="center">Arak-Arahm</p>
 
 
